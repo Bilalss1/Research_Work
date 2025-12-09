@@ -1,7 +1,8 @@
 # Molecular-cloning-cel48
 A complete molecular cloning workflow for the cel48 cellulase gene, including PCR amplification, gel purification, ligation into pGEM-T Easy, transformation into TOP10 cells, and sequence analysis.
 ____
-<img width="925" height="695" alt="image" src="https://github.com/user-attachments/assets/ceba34f8-22cc-4562-a08c-ae96a1235745" />
+<img width="1043" height="791" alt="Molecular cloning" src="https://github.com/user-attachments/assets/5b2519e5-9469-4256-8a88-1d7ca15b94b8" />
+
 
 ___
 **📌 Project Summary**
