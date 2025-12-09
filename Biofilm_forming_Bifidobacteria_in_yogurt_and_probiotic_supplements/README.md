@@ -8,7 +8,8 @@ Eight isolates were obtained from four commercial yogurts and two probiotic supp
 To confirm their identity, **DNA was extracted** and amplified using **ITS-PCR** targeting the 16S–23S rDNA region, followed by gel electrophoresis. All tested isolates produced clear bands with distinguishable patterns, confirming they were Bifidobacteria and showing genetic diversity among strains. **Statistical analysis** revealed a significant link between incubation time and biofilm strength. 
 This research demonstrates that many commercial products do contain Bifidobacteria capable of forming beneficial biofilms, improving survival in the human gut, and supporting long-term gut health. These results highlight the importance of validated probiotic strains and contribute data toward more reliable probiotic development.
 ___
-![Biofilm](https://github.com/user-attachments/assets/4bf34339-9703-4195-b48c-5368894a46f4)
+![Biofilm](https://github.com/user-attachments/assets/f4471a56-2a41-41cb-ba70-98ec2107df9f)
+
 ___
 
 **🔬 Methods Overview**
