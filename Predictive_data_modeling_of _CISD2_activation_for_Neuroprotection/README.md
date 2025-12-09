@@ -10,7 +10,9 @@ Together, these results highlight CISD2 as an important neuroprotective target a
 ___
 **🧠 Visual Summary**
 
-<img width="1187" height="887" alt="image" src="https://github.com/user-attachments/assets/8647a71b-19de-41a9-b064-3c3d28bb644a" />
+<img width="1038" height="781" alt="image" src="https://github.com/user-attachments/assets/41ed47b0-6b86-4fe2-b530-05bc253e37b4" />
+
+
 ___
 **🔬 Method Overview**
 
