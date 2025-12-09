@@ -59,6 +59,10 @@ ___
 
 ---
 
+### Citation and Contact
+If you reference this project, please cite the related publication.  
+For more information or collaboration opportunities, connect with me here on GitHub.
+___
 ## License
 
 © 2025 **Bilal Shafiq** — All rights reserved.
