@@ -10,9 +10,10 @@ The study also highlights major **signaling pathways**, including mTOR, AMPK, FO
 Finally, the project outlines several intervention strategies that show real potential, including flavonoids that enhance mitochondrial performance, senolytic compounds that selectively remove senescent cells, senostatics that suppress **SASP**, **CRISPR-based** gene modulation, and lifestyle approaches such as exercise and metabolic optimization. 
 Together, these findings present a clear, data-driven understanding of the biology behind cardiac aging and highlight promising targets for future therapies aimed at maintaining heart health across the lifespan.
 ___
-<img width="3492" height="2056" alt="diagram" src="https://github.com/user-attachments/assets/22b938e5-d5db-47cc-9c79-26822bcde5a3" />
+<img width="3492" height="2056" alt="diagram" src="https://github.com/user-attachments/assets/41295138-af94-4b88-a2ad-81a804d9a81f" />
 
 ___
+
 **🧬 Key Research Themes**
 
 - Genetic drivers of cardiac aging
