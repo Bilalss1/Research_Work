@@ -10,7 +10,8 @@ Sequencing confirmed the issue: NA sequences matched Corynebacterium pseudotuber
 
 **Bottom line:** The workflow ran successfully, but the viral genes never amplified or entered the vector. As a result, no RD8 mutations could be identified.
 ___
-<img width="1320" height="2780" alt="Workflow diagram" src="https://github.com/user-attachments/assets/684b9cb5-6bf7-421e-9514-48c2a97705df" />
+<img width="1320" height="2780" alt="Workflow diagram" src="https://github.com/user-attachments/assets/d5b29e38-d579-4f1a-ac1b-0da40ada3004" />
+
 
 ___
 **🔬 Key Methods**
