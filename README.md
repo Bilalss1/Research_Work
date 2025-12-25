@@ -6,4 +6,4 @@ A collection of my life science research projects, including published papers, c
 
 ## Contact
 
-If you have questions or would like access to additional data, feel free to reach out via GitHub.
+If you have questions or would like to access additional data, feel free to reach out via GitHub.
