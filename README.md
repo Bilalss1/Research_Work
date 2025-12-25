@@ -24,7 +24,7 @@ A collection of my life science research projects, including published papers, c
 
 5. **Biofilm Formation in Bifidobacteria**  
    Study on probiotic strains with potential biofilm-forming and beneficial genetic traits.  
-   👉 [`/Biofilm_forming_Bifidobacteria_in_yogurt_and_probiotics`](./Biofilm_forming_Bifidobacteria_in_yogurt_and_probiotics)
+   👉 [`/Biofilm_forming_Bifidobacteria_in_yogurt_and_probiotics`](./https://github.com/Bilalss1/Research_Work/tree/main/Biofilm_forming_Bifidobacteria_in_yogurt_and_probiotic_supplements)
 
 ---
 
