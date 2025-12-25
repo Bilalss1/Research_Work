@@ -17,7 +17,8 @@ All results are derived from **in silico modeling and network-based inference** 
 
 ## Conceptual Framework
 
-![Conceptual overview of sarcopenia targeting strategy](./figures/sarcopenia_framework.png)
+<img width="1716" height="2156" alt="image" src="https://github.com/user-attachments/assets/1eb4738b-f7e7-4b85-a6e4-8c3e71d7dc1a" />
+
 
 **Figure:** Conceptual overview of the computational framework used in this study. All relationships shown are based on *in silico* modeling, network analysis, and pathway inference, and represent **proposed mechanisms rather than experimentally validated outcomes**.
 
