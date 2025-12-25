@@ -41,4 +41,4 @@ Each folder above contains:
 
 ## Contact
 
-If you have questions or would like access to additional data or code, feel free to reach out via GitHub.
+If you have questions or would like access to additional data, feel free to reach out via GitHub.
