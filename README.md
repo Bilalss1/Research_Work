@@ -20,7 +20,7 @@ A collection of my life science research projects, including published papers, c
 
 4. **Cardiac Aging: Genetic and Molecular Perspective**  
    Data-driven analysis investigating pathways linked to age-related decline in cardiac function.  
-   👉 [`/Cardiac_Aging_A_data_driven_Genetic_and_Molecular_Perspective`](./Cardiac_Aging_A_data_driven_Genetic_and_Molecular_Perspective)
+   👉 [`/Cardiac_Aging_A_data_driven_Genetic_and_Molecular_Perspective`](./Cardiac Aging: A_data_driven_Genetic_and_Molecular_perspective)
 
 5. **Biofilm Formation in Bifidobacteria**  
    Study on probiotic strains with potential biofilm-forming and beneficial genetic traits.  
