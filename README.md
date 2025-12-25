@@ -16,7 +16,7 @@ A collection of my life science research projects, including published papers, c
 
 3. **CISD2 Activation and Neuroprotection Modeling**  
    Predictive data modeling to explore CISD2’s role in mitochondrial protection and neurodegeneration.  
-   👉 [`/Predictive_data_modeling_of_CISD2_activation_and_neuroprotection`](./Predictive_data_modeling_of_CISD2_activation_and_neuroprotection)
+   👉 [`/Predictive_data_modeling_of_CISD2_activation_and_neuroprotection`](./Predictive_data_modeling_of _CISD2_activation_for_Neuroprotection)
 
 4. **Cardiac Aging: Genetic and Molecular Perspective**  
    Data-driven analysis investigating pathways linked to age-related decline in cardiac function.  
